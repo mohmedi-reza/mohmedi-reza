@@ -1,11 +1,6 @@
 <h1 align="center">I'm Reza Mohmedi</h1>
 <h3 align="center">Frontend Developer | React Developer | Angular Developer | Vue Js Developer | Web3</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohmedi-reza&theme=dracula&margin-w=15&margin-h=15&row=2&column=2" alt="mohmedi-reza" />
-  
-</p>
-
 ## About Me
 Results-driven Frontend Web Developer with 7+ years creating scalable web applications. Seeking position as frontend Web Developer where I can leverage my proven expertise while focusing on growth in a collaborative team environment. I'm drawn to this role for its technical challenges and opportunity to make meaningful contributions. Proficient in React, Angular, and Vue with strong focus on web applications and blockchain integration. Demonstrated success enhancing decentralized platforms through optimized security and UX.
 
@@ -22,6 +17,10 @@ Results-driven Frontend Web Developer with 7+ years creating scalable web applic
 
   <a href="https://dribbble.com/mohmedi" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble" height="30" width="40" />
+  </a>
+
+  <a href="https://t.me/mrmohmedi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="dribbble" height="30" width="40" />
   </a>
   
 </p>
@@ -79,10 +78,7 @@ Results-driven Frontend Web Developer with 7+ years creating scalable web applic
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohmedi-reza&show_icons=true&theme=radical" alt="mohmedi-reza" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohmedi-reza&layout=compact&show_icons=true&theme=radical" alt="mohmedi-reza" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohmedi-reza&theme=dracula&margin-w=15&margin-h=15&row=2&column=2" alt="mohmedi-reza" />
 </p>
 
 ---
