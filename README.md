@@ -12,7 +12,7 @@ Results-driven Frontend Web Developer with 7+ years creating scalable web applic
   </a>
   
   <a href="https://api.whatsapp.com/send?phone=989160360032" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp" height="30" width="40" />
   </a>
 
   <a href="https://dribbble.com/mohmedi" target="_blank">
@@ -20,7 +20,7 @@ Results-driven Frontend Web Developer with 7+ years creating scalable web applic
   </a>
 
   <a href="https://t.me/mrmohmedi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="dribbble" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" />
   </a>
   
 </p>
@@ -48,8 +48,8 @@ Results-driven Frontend Web Developer with 7+ years creating scalable web applic
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/>
   <img src="https://rxjs.dev/assets/images/logos/Rx_Logo_S.png" alt="rxjs" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" alt="web3js" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D1-seeklogo.com.png" alt="ethersjs" width="40" height="40"/>
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/web3js-fkc6l6evntwzqrc1ac18.png/web3js-bqu5uc0cbrwxmkzlzt2ods.png?_a=DAJFJtWIZAAC" alt="web3js" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" alt="ethersjs" width="40" height="40"/>
 </p>
 
 <div align="left">
