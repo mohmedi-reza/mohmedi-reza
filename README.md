@@ -83,8 +83,6 @@ Results-driven Frontend Web Developer with 7+ years creating scalable web applic
 
 ---
 
-🚀 **Let's build something amazing together!** 🚀
-
 ## 🖼️ Portfolio Gallery
 <table>
   <tr>
