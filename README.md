@@ -1,8 +1,8 @@
 <h1 align="center">I'm Reza Mohmedi</h1>
-<h3 align="center">Frontend Developer | React Developer | Angular Developer | Vue Js Developer | Web3</h3>
+<h3 align="center">Frontend Developer | React.Js | Next.js | Vue.Js | Web3</h3>
 
 ## About Me
-Results-driven Frontend Web Developer with 7+ years creating scalable web applications. Seeking position as frontend Web Developer where I can leverage my proven expertise while focusing on growth in a collaborative team environment. I'm drawn to this role for its technical challenges and opportunity to make meaningful contributions. Proficient in React, Angular, and Vue with strong focus on web applications and blockchain integration. Demonstrated success enhancing decentralized platforms through optimized security and UX.
+Front-End Developer with outstanding performance and over 7 years of experience in building scalable web applications. Expert in React, Angular, and Vue, with a strong focus on web applications and blockchain integration. Proven track record of enhancing decentralized platforms through security optimizations and user experience improvements.
 
 ## Connect with Me
 <p align="left">
